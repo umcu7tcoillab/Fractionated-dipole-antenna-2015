@@ -1,8 +1,8 @@
 **Fractionated dipole antenna (2015)**
 
-As publicised by Raaijmakers et al. The fractionated dipole antenna: A new antenna for body imaging at 7 Tesla. Magnetic Resonance in Medicine; 2015.
+As publicised by Raaijmakers et al. The fractionated dipole antenna: A new antenna for body imaging at 7 Tesla. Magnetic Resonance in Medicine; 2015. This dipole is the same as the one used as in the mentioned paper. 
 
-This dipole is the same as the one used as in the above mentioned paper.
+Gerber files are included to be used for ordering your own PCB's.
 
 > PCB drawn in Kicad 5.1.4
 
