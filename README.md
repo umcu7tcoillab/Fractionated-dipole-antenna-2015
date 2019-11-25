@@ -1,13 +1,19 @@
-# Fractionated-dipole-antenna-2015
-As publicised by Raaijmakers et al, The fractionated dipole antenna: A new antenna for body imaging at 7 Tesla, 2015.
+**Fractionated dipole antenna (2015)**
 
-> The PCB file is drawn in Kicad 5.1.4
+As publicised by Raaijmakers et al. The fractionated dipole antenna: A new antenna for body imaging at 7 Tesla. Magnetic Resonance in Medicine; 2015.
+
+This dipole is the same as the one used as in the above mentioned paper.
+
+> PCB drawn in Kicad 5.1.4
 
 **PCB Schematic**
-![PCB schematic](Images/Kicad screenshot.png)
+<!--- ![PCB Schematic](Images/Kicad screenshot.png) --->
+<img src="Images/Kicad screenshot.png?raw=true" />
 
 **3D Image**
-![3D image](Images/Kicad 3D.png)
+<!--- ![3D Image](Images/Kicad 3D.png) --->
+<img src="Images/Kicad 3D.png?raw=true" />
 
 **3D Image zoom**
-![3D image zoom](Images/Kicad 3D - zoom.png)
+<!--- ![3D Image zoom](Images/Kicad screenshot.png) --->
+<img src="Images/Kicad 3D - zoom.png?raw=true" />
