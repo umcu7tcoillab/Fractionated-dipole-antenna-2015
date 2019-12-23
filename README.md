@@ -11,7 +11,7 @@ The PCB has been drawn in Kicad 5.1.4.
 
 
 ## Download
-Gerber production files for the lastest version of the PCB can be found in the 'Gerber' folder. Press the 'Clone or download' button at the top of this page to download the files. You can also make your own production files by downloading the Kicad project and generating them.
+Gerber production files for the latest version of the PCB can be found in the 'Gerber' folder. Press the 'Clone or download' button at the top of this page to download the files. You can also make your own production files by downloading the Kicad project and generating them.
 
 
 ## Images
