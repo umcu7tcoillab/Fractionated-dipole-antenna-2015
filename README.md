@@ -25,6 +25,6 @@ Gerber production files for the latest version of the PCB can be found in the 'G
 <!--- ![3D Image](Images/Kicad 3D.png) --->
 <img src="Images/Kicad 3D.png?raw=true" />
 
-**3D Image cropped**
+**Housing**
 <!--- ![3D Image zoom](Images/Kicad screenshot.png) --->
-<img src="Images/Kicad 3D - zoom.png?raw=true" />
+<img src="Images/Housing.png?raw=true" />
