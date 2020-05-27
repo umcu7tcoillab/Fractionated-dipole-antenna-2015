@@ -9,6 +9,8 @@ As publicised by Raaijmakers et al. The fractionated dipole antenna: A new anten
 
 *Please be careful using this design as high power RF can be harmful. Only use this design on phantoms. Use 2cm distance from subject. Human subjects can only be used after exhaustive SAR simulations and safety assessment of your setup.*
 
+A housing is also included to properly protect the antenna.
+
 The PCB has been drawn in Kicad 5.1.4.
 
 
