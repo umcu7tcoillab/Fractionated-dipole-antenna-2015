@@ -7,6 +7,8 @@ This design has been made by the coil-lab and Alexander Raaijmakers of the High 
 ## The design
 As publicised by Raaijmakers et al. The fractionated dipole antenna: A new antenna for body imaging at 7 Tesla. Magnetic Resonance in Medicine; 2015. This dipole is the same as the one used in the mentioned paper. 
 
+*Please be careful using this design as high power RF can be harmful. Only use this design on phantoms. Use 2cm distance from subject. Human subjects can only be used after exhaustive SAR simulations and safety assessment of your setup.*
+
 The PCB has been drawn in Kicad 5.1.4.
 
 
